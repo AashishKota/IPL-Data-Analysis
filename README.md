@@ -1,7 +1,3 @@
-# IPL-Data-Analysis
-Here’s a `README.md` file that explains your project structure, its dependencies, and how to run it.
-
----
 
 # IPL Data Scraper
 
@@ -102,4 +98,3 @@ The script will:
 
 ---
 
-Let me know if you need further adjustments or explanations!
